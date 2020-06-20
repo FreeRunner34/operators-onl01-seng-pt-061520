@@ -19,9 +19,9 @@ if speed <40 || speed >60
   return true 
 else 
   return false 
-end
+#end
 
-	 #binding.pry
+#	 #binding.pry
 end
 	
 
